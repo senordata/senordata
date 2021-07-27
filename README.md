@@ -1,4 +1,4 @@
-- Hello, I’m @senordata, I’m interested in big data and web development 
+- Hello, I’m Emmanuel, I’m interested in big data and web development 
 - I’m currently learning the intricacies of python for data collection, manipulation, and visualization 
 - I hold a B.S. in Computer Science and have a strong unsderstanding of fundamental computer science concepts such
   algorithm analysis, data structures, and object oriented programming 
